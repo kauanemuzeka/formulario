@@ -1,5 +1,5 @@
 body{
-	background: red;
+	background: white;
 }
 
 form label {
@@ -9,7 +9,7 @@ form label {
 }
 form input{
 	display: block;
-	background:white;
+	background:red;
 	color: black;
 	font-weight: bold;
 	
