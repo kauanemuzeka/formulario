@@ -12,5 +12,13 @@ form input{
 	background:red;
 	color: black;
 	font-weight: bold;
-	
+}
+table{
+	blackground: pink;
+	color: black;
+	font-size: 30px;
+}
+table tr td{
+	border: 2px solid #000000;
+	boder-color: black;
 }
